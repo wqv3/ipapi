@@ -22,9 +22,6 @@
 
 url/domain/ip: example.com status: success message: ok continent: north america continentcode: na country: united states countrycode: us region: california regionname: california city: los angeles district: - zip: 90001 latitude: 34.0522 longitude: -118.2437 timezone: america/los_angeles offset: -8 currency: usd isp: google llc organization: google llc as: as15169
 
-
-5. **waiting for input**: after the information is displayed, you can press any key to exit the program.
-
 ## ip-api service
 
-this program uses the **[ip-api](https://ip-api.com)** service to query data about ip addresses and domains. ip-api provides a reliable and fast api to fetch geolocation data and other associated information for a given ip address or domain.
+this program uses the **[ip-api](https://ip-api.com)** service to query data about ip addresses and domains. ip-api provides a reliable and fast api to fetch geolocation data and other associated information for a given ip address or domain **FOR FREE!**
